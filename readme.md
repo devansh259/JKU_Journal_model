@@ -486,6 +486,7 @@ Development of Journal Quality over Time
 plot_jourqual(jourqual,rounds,number_of_journals)
 ```
 
+![output_49_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/4bbc5144-847c-4b8f-a4d2-115c6770c763)
 
     
 ![png](output_49_0.png)
