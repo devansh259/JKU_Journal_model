@@ -489,7 +489,7 @@ plot_jourqual(jourqual,rounds,number_of_journals)
 ![output_49_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/4bbc5144-847c-4b8f-a4d2-115c6770c763)
 
     
-![png](output_49_0.png)
+
     
 
 
@@ -499,10 +499,11 @@ Development of Journal Quality over Time: Top 3
 ```python
 plot_jourqual_top3(jourqual,rounds,number_of_journals)
 ```
+![output_51_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/4b9876f4-6523-4fb5-8b6b-77a8467f3e23)
 
 
     
-![png](output_51_0.png)
+
     
 
 
@@ -515,7 +516,8 @@ plot_jourqual_medium3(jourqual,rounds,number_of_journals)
 
 
     
-![png](output_53_0.png)
+![output_53_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/41bf7067-b5ce-40e0-a32f-ef65aa778771)
+
     
 
 
@@ -527,9 +529,10 @@ plot_jourqual_worst(jourqual,rounds,number_of_authors)
 ```
 
 
-    
-![png](output_55_0.png)
-    
+![output_55_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/acb94ce5-446b-4fed-bef2-0c1f2f36e521)
+
+ 
+
 
 
 Paper Density vs. Rejection Rate
@@ -540,8 +543,10 @@ plot_paper_density_vs_rejection_rate(accepted,papers,number_of_authors,rounds)
 ```
 
 
-    
-![png](output_57_0.png)
+   ![output_57_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/9ed81022-65c5-4bce-9d1a-c36402aed2f6)
+ 
+
+
     
 
 
@@ -554,8 +559,8 @@ plot_destiny_top20(papers,number_of_authors,rounds)
 
 
     
-![png](output_59_0.png)
-    
+![output_59_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/af385999-4486-4eda-9001-d7ed564fbc83)
+
 
 
 # Noisy Scenario
@@ -671,8 +676,10 @@ plot_jourqual(jourqual,rounds,number_of_journals)
 ```
 
 
-    
-![png](output_85_0.png)
+ ![output_85_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/d7ba44dd-87e1-4f9e-bece-ec0be9f6cd50)
+
+
+
     
 
 
@@ -682,10 +689,11 @@ Development of Journal Quality over Time: Top 3
 ```python
 plot_jourqual_top3(jourqual,rounds,number_of_journals)
 ```
+![output_87_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/29032bd3-ca27-43ec-b196-4bd1b2a5b8a9)
 
 
     
-![png](output_87_0.png)
+
     
 
 
@@ -697,8 +705,9 @@ plot_jourqual_medium3(jourqual,rounds,number_of_journals)
 ```
 
 
-    
-![png](output_89_0.png)
+![output_89_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/953756de-2540-407b-b186-91c429aea22f)
+
+
     
 
 
@@ -709,9 +718,10 @@ Quality of Papers published in the worst journal
 plot_jourqual_worst(jourqual,rounds,number_of_authors)
 ```
 
+![output_91_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/1eefa5ba-72c9-4ef7-bd4a-625fbbaac250)
 
     
-![png](output_91_0.png)
+
     
 
 
@@ -721,10 +731,11 @@ Paper Density vs. Rejection Rate
 ```python
 plot_paper_density_vs_rejection_rate(accepted,papers,number_of_authors,rounds)
 ```
+![output_93_0](https://github.com/devansh259/JKU_Journal_model/assets/42205065/4b4238f2-d223-4542-b2d9-1e93487f1244)
 
 
     
-![png](output_93_0.png)
+
     
 
 
