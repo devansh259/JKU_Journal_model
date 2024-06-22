@@ -228,7 +228,7 @@ plot_epistemic_coverage(epistemic_space)
 
 
     
-![png](output_80_0.png)
+![png](https://github.com/devansh259/JKU_Journal_model/blob/main/Epistemic%20citation%20network%203/images/output_80_0.png)
     
 
 
